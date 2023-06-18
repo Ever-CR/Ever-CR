@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ever
-- 👀 I’m Programing Software since 2010.
-- 🌱 I’m Software Engineer
-- 💡 Java, Swift, PHP, SQL, Laravel, Spring And More.
+- 👀 I have been Programming Software since 2010.
+- 🌱 I’m Software Engineer.
+- 💡 Java, Swift, PHP, SQL, Unix, Laravel, Spring, React, HTML, CSS And Much More.
 - 🌎 See my Work Here and EverSoft.dev
 
 <!---
